@@ -1,0 +1,15 @@
+C:\Users\cedro_comercial\Desktop\ListadeFilmes\testesUnitarios\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\cedro_comercial\Desktop\ListadeFilmes\testesUnitarios\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\cedro_comercial\Desktop\ListadeFilmes\testesUnitarios\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\cedro_comercial\Desktop\ListadeFilmes\testesUnitarios\bin\Debug\netcoreapp2.0\testesUnitarios.deps.json
+C:\Users\cedro_comercial\Desktop\ListadeFilmes\testesUnitarios\bin\Debug\netcoreapp2.0\testesUnitarios.runtimeconfig.json
+C:\Users\cedro_comercial\Desktop\ListadeFilmes\testesUnitarios\bin\Debug\netcoreapp2.0\testesUnitarios.runtimeconfig.dev.json
+C:\Users\cedro_comercial\Desktop\ListadeFilmes\testesUnitarios\bin\Debug\netcoreapp2.0\testesUnitarios.dll
+C:\Users\cedro_comercial\Desktop\ListadeFilmes\testesUnitarios\bin\Debug\netcoreapp2.0\testesUnitarios.pdb
+C:\Users\cedro_comercial\Desktop\ListadeFilmes\testesUnitarios\obj\Debug\netcoreapp2.0\testesUnitarios.csproj.CoreCompileInputs.cache
+C:\Users\cedro_comercial\Desktop\ListadeFilmes\testesUnitarios\obj\Debug\netcoreapp2.0\testesUnitarios.AssemblyInfoInputs.cache
+C:\Users\cedro_comercial\Desktop\ListadeFilmes\testesUnitarios\obj\Debug\netcoreapp2.0\testesUnitarios.AssemblyInfo.cs
+C:\Users\cedro_comercial\Desktop\ListadeFilmes\testesUnitarios\obj\Debug\netcoreapp2.0\testesUnitarios.dll
+C:\Users\cedro_comercial\Desktop\ListadeFilmes\testesUnitarios\obj\Debug\netcoreapp2.0\testesUnitarios.pdb
+C:\Users\cedro_comercial\Desktop\ListadeFilmes\testesUnitarios\bin\Debug\netcoreapp2.0\Camada.BLL.dll
+C:\Users\cedro_comercial\Desktop\ListadeFilmes\testesUnitarios\bin\Debug\netcoreapp2.0\Camada.BLL.pdb

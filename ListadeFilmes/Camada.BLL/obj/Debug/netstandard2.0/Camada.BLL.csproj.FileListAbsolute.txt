@@ -1,0 +1,8 @@
+c:\Users\cedro_comercial\Desktop\ListadeFilmes\Camada.BLL\bin\Debug\netstandard2.0\Camada.BLL.deps.json
+c:\Users\cedro_comercial\Desktop\ListadeFilmes\Camada.BLL\bin\Debug\netstandard2.0\Camada.BLL.dll
+c:\Users\cedro_comercial\Desktop\ListadeFilmes\Camada.BLL\bin\Debug\netstandard2.0\Camada.BLL.pdb
+c:\Users\cedro_comercial\Desktop\ListadeFilmes\Camada.BLL\obj\Debug\netstandard2.0\Camada.BLL.csproj.CoreCompileInputs.cache
+c:\Users\cedro_comercial\Desktop\ListadeFilmes\Camada.BLL\obj\Debug\netstandard2.0\Camada.BLL.AssemblyInfoInputs.cache
+c:\Users\cedro_comercial\Desktop\ListadeFilmes\Camada.BLL\obj\Debug\netstandard2.0\Camada.BLL.AssemblyInfo.cs
+c:\Users\cedro_comercial\Desktop\ListadeFilmes\Camada.BLL\obj\Debug\netstandard2.0\Camada.BLL.dll
+c:\Users\cedro_comercial\Desktop\ListadeFilmes\Camada.BLL\obj\Debug\netstandard2.0\Camada.BLL.pdb

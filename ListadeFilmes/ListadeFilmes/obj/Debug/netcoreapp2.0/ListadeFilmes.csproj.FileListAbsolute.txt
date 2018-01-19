@@ -1,0 +1,12 @@
+c:\Users\cedro_comercial\Desktop\ListadeFilmes\ListadeFilmes\bin\Debug\netcoreapp2.0\ListadeFilmes.deps.json
+c:\Users\cedro_comercial\Desktop\ListadeFilmes\ListadeFilmes\bin\Debug\netcoreapp2.0\ListadeFilmes.runtimeconfig.json
+c:\Users\cedro_comercial\Desktop\ListadeFilmes\ListadeFilmes\bin\Debug\netcoreapp2.0\ListadeFilmes.runtimeconfig.dev.json
+c:\Users\cedro_comercial\Desktop\ListadeFilmes\ListadeFilmes\bin\Debug\netcoreapp2.0\ListadeFilmes.dll
+c:\Users\cedro_comercial\Desktop\ListadeFilmes\ListadeFilmes\bin\Debug\netcoreapp2.0\ListadeFilmes.pdb
+c:\Users\cedro_comercial\Desktop\ListadeFilmes\ListadeFilmes\bin\Debug\netcoreapp2.0\Camada.BLL.dll
+c:\Users\cedro_comercial\Desktop\ListadeFilmes\ListadeFilmes\bin\Debug\netcoreapp2.0\Camada.BLL.pdb
+c:\Users\cedro_comercial\Desktop\ListadeFilmes\ListadeFilmes\obj\Debug\netcoreapp2.0\ListadeFilmes.csproj.CoreCompileInputs.cache
+c:\Users\cedro_comercial\Desktop\ListadeFilmes\ListadeFilmes\obj\Debug\netcoreapp2.0\ListadeFilmes.AssemblyInfoInputs.cache
+c:\Users\cedro_comercial\Desktop\ListadeFilmes\ListadeFilmes\obj\Debug\netcoreapp2.0\ListadeFilmes.AssemblyInfo.cs
+c:\Users\cedro_comercial\Desktop\ListadeFilmes\ListadeFilmes\obj\Debug\netcoreapp2.0\ListadeFilmes.dll
+c:\Users\cedro_comercial\Desktop\ListadeFilmes\ListadeFilmes\obj\Debug\netcoreapp2.0\ListadeFilmes.pdb
